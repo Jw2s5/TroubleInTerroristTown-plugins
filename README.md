@@ -5,7 +5,7 @@ It features a robust core plugin handling role assignment, shop system, body ins
 
 [ KNOWN BUGS & ISSUES ]
 - Plugin Incompatibility: Some specific weapon/item sub-plugins may currently have compatibility issues with the TroubleInTerroristTown core plugin, which may cause errors or unexpected behavior.
-- - Model Glitches: Some custom models may not display properly (e.g., missing textures or invisible viewmodels) due to engine precache limits or incorrect path configuration.
+- Model Glitches: Some custom models may not display properly (e.g., invisible first-person viewmodels).
 
 [ REQUIREMENTS ]
 - Game: Counter-Strike: Source (CS:S). (Not compatible with CS:GO/CS2).
